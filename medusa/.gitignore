@@ -2,7 +2,7 @@
 .env
 .DS_Store
 /uploads
-/node_modules
+node_modules/
 yarn-error.log
 
 .idea
@@ -25,3 +25,4 @@ build
 
 .medusa
 .vscode/
+.claude/
